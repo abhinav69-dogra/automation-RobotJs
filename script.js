@@ -1,6 +1,7 @@
 var robot= require("robotjs");
 var fs = require("fs");
 
+
 setTimeout(openSpotify, 2000);
 
 function openSpotify(){
